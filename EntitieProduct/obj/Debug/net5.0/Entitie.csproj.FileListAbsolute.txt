@@ -1,0 +1,16 @@
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\bin\Debug\net5.0\Entitie.deps.json
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\bin\Debug\net5.0\Entitie.runtimeconfig.json
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\bin\Debug\net5.0\Entitie.runtimeconfig.dev.json
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\bin\Debug\net5.0\Entitie.dll
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\bin\Debug\net5.0\Entitie.pdb
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.AssemblyInfo.cs
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.sourcelink.json
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.dll
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\refint\Entitie.dll
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.pdb
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\Entitie.genruntimeconfig.cache
+C:\Users\João\source\repos\e-commerce-teste\AutoGlassProduct\EntitieProduct\obj\Debug\net5.0\ref\Entitie.dll
